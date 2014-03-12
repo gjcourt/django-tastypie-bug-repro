@@ -1,0 +1,4 @@
+Django==1.5.4
+django-nose==1.2
+django-tastypie==0.9.14
+rudolf2==0.3
